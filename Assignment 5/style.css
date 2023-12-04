@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 50vw;
+    height: 100vh;
+    background-color:black;
+}
+
+.card{
+    background-repeat: no-repeat;
+    background-image: url('https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523');
+    background-size: contain;
+    height:100%;
+    width: 100%;
+}
+
+.head{
+    color:white;
+    font-size: 4em;
+    text-align: center;
+}
+.sub-head{
+    font-size: 25px;
+    padding:20px;
+    margin-top: 10px;
+}
+.read{
+    font-size: 2em;
+    margin-right: 550px;
+}
+.content{
+    font-size: 20px;
+    text-align: justify;
+}
+div {
+    text-align: center; /* Center inline or inline-block elements horizontally */
+}
+
+button {
+    padding: 10px;
+    background-color: orange;
+    font-size: 25px;
+}
+
